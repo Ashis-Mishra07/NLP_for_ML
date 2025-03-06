@@ -1,7 +1,5 @@
 ### Advantages and Disadvantages of One Hot Encoding
 
-
-
 #### Advantages
 - Easy to implement with python programming
 - way sklearn one hot encoder   ,   pd.get_dummies 
